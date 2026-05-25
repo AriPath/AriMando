@@ -21,7 +21,7 @@
 
 1. مخزن پروژه را به صورت ZIP دانلود کنید (یا از بخش Releases نسخه `.exe` را دریافت کنید)
 2. فایل ZIP را Extract کنید
-3. فایل `AriMando.exe` را اجرا کنید
+3. فایل `AriMando.exe` را اجرا کنید (حتما اپ رو موقع اجرا با دسترسی Run as administrator ران کنید)
 
 👈 **[دانلود پروژه به صورت ZIP](https://github.com/AriPath/AriMando/archive/refs/heads/main.zip)**
 
